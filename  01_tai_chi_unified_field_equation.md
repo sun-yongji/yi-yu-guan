@@ -2,9 +2,9 @@
 
 ## 一、方程本体
 
-\[
+$$
 \boxed{\Psi(\mathbf{r},t) = A \;\exp\!\left[ i\left( \frac{2\pi}{\lambda_{\text{2R}}}\, r \;+\; \frac{2\pi}{T_G}\, t \;+\; \phi_{60^\circ} \;+\; \delta_{\text{运}} \right) \right] }
-\]
+$$
 
 其中 \(r = |\mathbf{r}|\) 为到当前太极点（银心/太阳/地心/原子核）的距离，\(t\) 为时间。
 
